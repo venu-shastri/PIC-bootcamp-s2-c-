@@ -1,0 +1,13 @@
+camel - helloWorld
+		private data members
+		argument names
+		local variables
+pascal - HelloWorld
+		namespace names
+		UDT Names
+		Funciton Name
+		Event names
+		Property names
+
+Named Constants  - HELLOWORLD
+reserved keywords - helloworld
