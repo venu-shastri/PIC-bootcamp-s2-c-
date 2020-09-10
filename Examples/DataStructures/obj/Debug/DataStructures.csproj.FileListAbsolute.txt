@@ -1,0 +1,7 @@
+D:\knowledge\pic-s2.2\Examples\DataStructures\bin\Debug\DataStructures.exe.config
+D:\knowledge\pic-s2.2\Examples\DataStructures\bin\Debug\DataStructures.exe
+D:\knowledge\pic-s2.2\Examples\DataStructures\bin\Debug\DataStructures.pdb
+D:\knowledge\pic-s2.2\Examples\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+D:\knowledge\pic-s2.2\Examples\DataStructures\obj\Debug\DataStructures.exe
+D:\knowledge\pic-s2.2\Examples\DataStructures\obj\Debug\DataStructures.pdb
+D:\knowledge\pic-s2.2\Examples\DataStructures\obj\Debug\DataStructures.csprojAssemblyReference.cache

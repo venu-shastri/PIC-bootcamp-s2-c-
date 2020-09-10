@@ -1,0 +1,7 @@
+D:\knowledge\pic-s2.2\Examples\InterfaceDemo\obj\Debug\InterfaceDemo.csprojAssemblyReference.cache
+D:\knowledge\pic-s2.2\Examples\InterfaceDemo\obj\Debug\InterfaceDemo.csproj.CoreCompileInputs.cache
+D:\knowledge\pic-s2.2\Examples\InterfaceDemo\bin\Debug\InterfaceDemo.exe.config
+D:\knowledge\pic-s2.2\Examples\InterfaceDemo\bin\Debug\InterfaceDemo.exe
+D:\knowledge\pic-s2.2\Examples\InterfaceDemo\bin\Debug\InterfaceDemo.pdb
+D:\knowledge\pic-s2.2\Examples\InterfaceDemo\obj\Debug\InterfaceDemo.exe
+D:\knowledge\pic-s2.2\Examples\InterfaceDemo\obj\Debug\InterfaceDemo.pdb

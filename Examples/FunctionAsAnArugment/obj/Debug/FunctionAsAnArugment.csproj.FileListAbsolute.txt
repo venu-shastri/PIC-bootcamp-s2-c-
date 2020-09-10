@@ -1,0 +1,7 @@
+D:\knowledge\pic-s2.2\Examples\FunctionAsAnArugment\obj\Debug\FunctionAsAnArugment.csprojAssemblyReference.cache
+D:\knowledge\pic-s2.2\Examples\FunctionAsAnArugment\obj\Debug\FunctionAsAnArugment.csproj.CoreCompileInputs.cache
+D:\knowledge\pic-s2.2\Examples\FunctionAsAnArugment\bin\Debug\FunctionAsAnArugment.exe.config
+D:\knowledge\pic-s2.2\Examples\FunctionAsAnArugment\bin\Debug\FunctionAsAnArugment.exe
+D:\knowledge\pic-s2.2\Examples\FunctionAsAnArugment\bin\Debug\FunctionAsAnArugment.pdb
+D:\knowledge\pic-s2.2\Examples\FunctionAsAnArugment\obj\Debug\FunctionAsAnArugment.exe
+D:\knowledge\pic-s2.2\Examples\FunctionAsAnArugment\obj\Debug\FunctionAsAnArugment.pdb

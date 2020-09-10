@@ -1,0 +1,7 @@
+D:\knowledge\pic-s2.2\Examples\ReflectionDemo\bin\Debug\ReflectionDemo.exe.config
+D:\knowledge\pic-s2.2\Examples\ReflectionDemo\bin\Debug\ReflectionDemo.exe
+D:\knowledge\pic-s2.2\Examples\ReflectionDemo\bin\Debug\ReflectionDemo.pdb
+D:\knowledge\pic-s2.2\Examples\ReflectionDemo\obj\Debug\ReflectionDemo.csprojAssemblyReference.cache
+D:\knowledge\pic-s2.2\Examples\ReflectionDemo\obj\Debug\ReflectionDemo.csproj.CoreCompileInputs.cache
+D:\knowledge\pic-s2.2\Examples\ReflectionDemo\obj\Debug\ReflectionDemo.exe
+D:\knowledge\pic-s2.2\Examples\ReflectionDemo\obj\Debug\ReflectionDemo.pdb

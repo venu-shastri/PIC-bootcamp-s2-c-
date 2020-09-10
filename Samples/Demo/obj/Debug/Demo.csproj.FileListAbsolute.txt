@@ -1,0 +1,6 @@
+D:\knowledge\dotnet_fundamentals\Samples\Demo\bin\Debug\Demo.exe.config
+D:\knowledge\dotnet_fundamentals\Samples\Demo\bin\Debug\Demo.exe
+D:\knowledge\dotnet_fundamentals\Samples\Demo\bin\Debug\Demo.pdb
+D:\knowledge\dotnet_fundamentals\Samples\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\knowledge\dotnet_fundamentals\Samples\Demo\obj\Debug\Demo.exe
+D:\knowledge\dotnet_fundamentals\Samples\Demo\obj\Debug\Demo.pdb

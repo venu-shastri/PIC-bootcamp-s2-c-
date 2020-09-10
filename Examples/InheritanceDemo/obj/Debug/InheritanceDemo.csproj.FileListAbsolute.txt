@@ -1,0 +1,7 @@
+D:\knowledge\pic-s2.2\Examples\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+D:\knowledge\pic-s2.2\Examples\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+D:\knowledge\pic-s2.2\Examples\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+D:\knowledge\pic-s2.2\Examples\InheritanceDemo\obj\Debug\InheritanceDemo.csprojAssemblyReference.cache
+D:\knowledge\pic-s2.2\Examples\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+D:\knowledge\pic-s2.2\Examples\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+D:\knowledge\pic-s2.2\Examples\InheritanceDemo\obj\Debug\InheritanceDemo.pdb
